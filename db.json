@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "T.A Session",
+      "day": "Monday-Friday, 07:00 P.M",
+      "reminder": true
+    },
+    {
+      "text": "LAB Session",
+      "day": "Monday-Friday, 11:00 A.M",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
